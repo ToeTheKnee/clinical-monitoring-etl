@@ -1,6 +1,6 @@
 """
 generate_pdfs.py
-Generates 5 synthetic Site Visit Reports (SVRs) as PDFs for the ETL portfolio project.
+Generates 5 synthetic monitoirng visit reports (MVRs) as PDFs for the ETL portfolio project.
 All data is entirely fictional — safe for GitHub sharing.
 """
 
