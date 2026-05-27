@@ -1,7 +1,7 @@
 """
 etl_pipeline.py
 Clinical Monitoring ETL Pipeline
-  Extract  → parse findings from Site Visit Report PDFs
+  Extract  → parse findings from Monitoring visit Report PDFs
   Transform → classify findings (keyword rules, with LLM fallback via Anthropic API)
   Load     → write structured CSVs to data/processed/
 
