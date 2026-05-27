@@ -5,7 +5,8 @@ FINDING_CATEGORIES = {
     "Protocol Deviation": [
         "protocol deviation", "deviation", "eligibility criteria", "inclusion criteria",
         "exclusion criteria", "visit window", "missed visit", "procedure not followed",
-        "unapproved procedure", "dosing error", "dose modification", "off-protocol"
+        "unapproved procedure", "dosing error", "dose modification", "off-protocol", "missing assessment",
+        "not done", "out of window"
     ],
     "Informed Consent": [
         "informed consent", "consent form", "re-consent", "icf", "consent not obtained",
@@ -13,7 +14,8 @@ FINDING_CATEGORIES = {
     ],
     "Data Entry / eCRF": [
         "data entry", "ecrf", "crf", "query", "data discrepancy", "missing data",
-        "transcription error", "source data", "data clarification", "source document"
+        "transcription error", "source data", "data clarification", "source document",
+        "EDC", "clinical reserach form"
     ],
     "Adverse Event Reporting": [
         "adverse event", "ae", "sae", "serious adverse event", "reportable event",
@@ -27,7 +29,7 @@ FINDING_CATEGORIES = {
     "Regulatory / Essential Documents": [
         "regulatory binder", "essential documents", "irb approval", "irb expiration",
         "financial disclosure", "1572", "cv", "training record", "delegation log",
-        "site staff", "credentials", "license"
+        "site staff", "credentials", "license", "missing signature"
     ],
     "Facility / Equipment": [
         "equipment calibration", "centrifuge", "freezer", "temperature log",
