@@ -1,0 +1,6 @@
+report_id,site_id,visit_date,total_findings,critical,major,minor,open,in_progress,closed,keyword_classified,llm_classified
+SVR-2025-0041,SITE-001,"April 2, 2025",3,1,1,1,2,0,1,3,0
+SVR-2025-0052,SITE-002,"April 10, 2025",3,1,2,0,2,1,0,3,0
+SVR-2025-0063,SITE-003,"April 17, 2025",4,0,2,2,2,1,1,4,0
+SVR-2025-0074,SITE-004,"April 24, 2025",2,0,1,1,2,0,0,2,0
+SVR-2025-0085,SITE-005,"May 1, 2025",4,2,1,1,2,1,1,4,0
